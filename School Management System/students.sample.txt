@@ -1,0 +1,3 @@
+Alice Johnson,1001,50000,92
+Bob Smith,1002,48000,88
+Carol Williams,1003,52000,95
